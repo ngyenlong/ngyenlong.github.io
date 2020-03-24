@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.6b2a6dc7.chunk.css",
-    "main.js": "/static/js/main.6a975e60.chunk.js",
-    "main.js.map": "/static/js/main.6a975e60.chunk.js.map",
+    "main.js": "/static/js/main.e14fab10.chunk.js",
+    "main.js.map": "/static/js/main.e14fab10.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ed484afd.js",
     "runtime-main.js.map": "/static/js/runtime-main.ed484afd.js.map",
-    "static/js/2.8220c309.chunk.js": "/static/js/2.8220c309.chunk.js",
-    "static/js/2.8220c309.chunk.js.map": "/static/js/2.8220c309.chunk.js.map",
+    "static/js/2.595203ff.chunk.js": "/static/js/2.595203ff.chunk.js",
+    "static/js/2.595203ff.chunk.js.map": "/static/js/2.595203ff.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fcd7d2c5cf962595aace4728aece6417.js": "/precache-manifest.fcd7d2c5cf962595aace4728aece6417.js",
+    "precache-manifest.be0309f2f2596495ff524cf2aa8e0104.js": "/precache-manifest.be0309f2f2596495ff524cf2aa8e0104.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.6b2a6dc7.chunk.css.map": "/static/css/main.6b2a6dc7.chunk.css.map",
-    "static/js/2.8220c309.chunk.js.LICENSE.txt": "/static/js/2.8220c309.chunk.js.LICENSE.txt",
+    "static/js/2.595203ff.chunk.js.LICENSE.txt": "/static/js/2.595203ff.chunk.js.LICENSE.txt",
     "static/media/apac.png": "/static/media/apac.5ec46c9b.png",
-    "static/media/avatar.jpg": "/static/media/avatar.d40fc012.jpg",
+    "static/media/avatar.jpg": "/static/media/avatar.39965f99.jpg",
     "static/media/bbaghome.jpg": "/static/media/bbaghome.4af08055.jpg",
     "static/media/bbagshop.jpg": "/static/media/bbagshop.afebdd03.jpg",
     "static/media/bbagsingle.jpg": "/static/media/bbagsingle.74e62470.jpg",
@@ -46,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ed484afd.js",
-    "static/js/2.8220c309.chunk.js",
+    "static/js/2.595203ff.chunk.js",
     "static/css/main.6b2a6dc7.chunk.css",
-    "static/js/main.6a975e60.chunk.js"
+    "static/js/main.e14fab10.chunk.js"
   ]
 }
